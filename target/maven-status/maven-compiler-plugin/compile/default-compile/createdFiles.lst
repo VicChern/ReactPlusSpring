@@ -1,0 +1,6 @@
+com/vicchern/service/PersonServiceImpl.class
+com/vicchern/entity/Person.class
+com/vicchern/service/PersonService.class
+com/vicchern/repository/PersonRepository.class
+com/vicchern/SpringBootApp.class
+com/vicchern/util/DatabaseLoader.class
